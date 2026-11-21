@@ -5,7 +5,7 @@ Built for a fictional lender, Nilora Finance.
 
 Tools: Power Query, Power Pivot (DAX), Pivot Tables, Pivot Charts, Slicers.
 
-![Overview](images/1-Overview.png)
+![Overview](1-Overview.png)
 
 ## About the project
 
@@ -44,16 +44,16 @@ These come from how the data was recorded, not from real borrower risk. So I did
 4. Product & Terms (amortization, lump sum, term, occupancy)
 5. Data Quality
 
-![Collateral](images/2-Collateral.png)
-![Borrowers](images/3-Borrowers.png)
-![Products](images/4-Products.png)
-![Data Quality](images/5-Data%20Quality.png)
+![Collateral](2-Collateral.png)
+![Borrowers](3-Borrowers.png)
+![Products](4-Products.png)
+![Data Quality](5-Data%20Quality.png)
 
 ## Files
 
 - `Loan_Default_Dashboard.xlsx` - the workbook (pivot and check sheets are hidden, right-click a tab > Unhide to see them)
-- `data/Loan_Default_Clean.zip` - cleaned data from Power Query (the original data is on Kaggle, link below)
-- `images/` - screenshots
+- `Loan_Default_Clean.zip` - cleaned data from Power Query (the original data is on Kaggle, link below)
+- 5 PNG files - screenshots
 
 ## Data source
 
